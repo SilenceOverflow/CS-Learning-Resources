@@ -9,7 +9,7 @@
 > Also, this is a **To-Do** list for me. I hope this could be a beginner's guide to some specific fields in or related to  computer science, such as **machine learning**, **computer vision**, and **SLAM**, etc.
 
 > 
-> You may refer to a webpage version [Here](https://youjiexia.github.io/2017/04/19/Learning-Resources-for-Computer-Science/).
+> You may refer to a webpage version here [Link1](https://youjiexia.github.io/2017/04/19/Learning-Resources-for-Computer-Science/) or [Link2](https://youjiexia.github.io/CS-Learning-Resources/).
 > 
 > **Still Updating**!
 
@@ -21,7 +21,11 @@
 
 
 
-## Open Courses
+
+
+
+
+## Open Courses and Online Resources
 
 ### Algorithms
 - [ ] [Algorithms](http://algs4.cs.princeton.edu/), (@Princeton) or [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) /  [Part II](https://www.coursera.org/learn/algorithms-part2), (@Coursera)
@@ -33,28 +37,38 @@
 
 ### Computer Vision
 - [x] [Computer Vision](http://www.andrew.cmu.edu/course/16-720/), (**16-720**@CMU, Prof. Martial Hebert)
-- [ ] [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu), (**CS231n**@Stanford, Prof. Fei-Fei Li)
-- [ ] [斯坦福CS231n—深度学习与计算机视觉](http://study.163.com/course/courseMain.htm?courseId=1003223001), (**CS231n**@Stanford, Prof. Fei-Fei Li)
-
+- [ ] [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu), [[网易云课堂](http://study.163.com/course/courseMain.htm?courseId=1003223001)], (**CS231n**@Stanford, Prof. Fei-Fei Li)
 
 ### Deep Learning
-- [ ] [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu), (**CS231n**@Stanford, Prof. Fei-Fei Li)
-- [ ] [斯坦福CS231n—深度学习与计算机视觉](http://study.163.com/course/courseMain.htm?courseId=1003223001), (**CS231n**@Stanford, Prof. Fei-Fei Li)
-- [ ] [Practical Deep Learning For Coders, Part 1](http://course.fast.ai/index.html), (@USF)
+- [ ] [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu), [[网易云课堂](http://study.163.com/course/courseMain.htm?courseId=1003223001)], (**CS231n**@Stanford, Prof. Fei-Fei Li)
 - [ ] [Introduction to Deep Learning](http://introtodeeplearning.com/index.html), (**6.S191**@MIT)
+- [ ] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks), (@Coursera, Prof. Geoffrey Hinton)
+- [ ] [Practical Deep Learning For Coders, Part 1](http://course.fast.ai/index.html), (@USF)
+
 
 ### Introduction to Computer Science
+- [ ] [Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals), (@Coursera, @Rice)
 - [ ] [Intensive Introduction to Computer Science Open Learning Course](https://cs50.harvard.edu/weeks), (**CS50**@Harvard)
-
+- [ ] Introduction to Computer Science and Programming Using Python, [[@edX](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10#!)], [[**6.0001**@MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)], [[@网易公开课](http://open.163.com/special/opencourse/bianchengdaolun.html)]
 
 ### Machine Learning
-- [x] [Machine Learning](https://www.coursera.org/learn/machine-learning), (@Coursera, Prof. Andrew Ng)
 - [ ] [Complete Notes of Stanford's Machine Learning Course](http://www.holehouse.org/mlclass/index.html), (@HoleHouse)
+- [x] [Machine Learning](https://www.coursera.org/learn/machine-learning), (@Coursera, Prof. Andrew Ng)
+- [ ] [Machine Learning for Data Analysis](https://www.coursera.org/learn/machine-learning-data-analysis), (@Coursera, @Wesleyan)
+- [ ] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks), (@Coursera, Prof. Geoffrey Hinton)
 - [ ] [机器学习](https://book.douban.com/subject/26708119/), (@Prof. Zhihua Zhou/周志华教授)
+- [x] [机器学习的发展历程及启示](http://mt.sohu.com/20170326/n484898474.shtml), (@Prof. Zhihua Zhang/@张志华教授)
 - [ ] [统计学习方法](https://book.douban.com/subject/10590856/), (@Dr. Hang Li/李航博士)
 
 
+### PyTorch
+- [PyTorch中文文档](http://pytorch-cn.readthedocs.io/zh/latest/)
+- [PyTorch入门教程](https://morvanzhou.github.io/tutorials/machine-learning/torch/)
 
+
+### TensorFlow
+- [ ] [TensorFlow初学者指南：如何为机器学习项目创建合适的文件架构](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650726048&idx=1&sn=492ccde81a2ca2a344f995c5f92a3107&chksm=871b1adeb06c93c87b81f9c6a9e6e041e01a2885949d16e8a7e758a26a0237421b59257de7a4&mpshare=1&scene=1&srcid=04302CkKlQxEW1SKu1lvTtcc&key=c9ae00cb2e00c8e8d2617194d0069ed95f2478e55d55de759e8fa0716800107b81366e564ed7e28a157342e083b7d7ec4d151376fe0db3c19eef556c9d15945be8ea49770b08cbb4f9d3a6799a02fcb6&ascene=0&uin=MTA0MDA5MTMwMw%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.6+build(15G1421)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=Z6eFtF9%2B8uZcT8c1EnvoXMh%2BVdS7%2B7YjXXJ68IGu2xLz35jNKc0MKihKUY%2FbB4Dk)
+- [ ] [TensorFlow入门教程](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)
 
 
 
@@ -74,6 +88,17 @@
 - [x] [Python](https://www.codecademy.com/learn/python), (@Codecademy)
 - [x] [Video: Official Guide to Python](http://v.qq.com/vplus/8b0c0b53f338d17267d5bd9617482a49/foldervideos/2dq0001010wz5wm), (@JetBrains)
 - [ ] [Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000), (@廖雪峰的官方网站)
+
+#### Jupyter Notebook
+- [x] Getting started with the Jupyter notebook, [[Part 1](https://www.packtpub.com/books/content/getting-started-jupyter-notebook-part-1)/[中文版](http://codingpy.com/article/getting-started-with-jupyter-notebook-part-1/)], [[Part 2](https://www.packtpub.com/books/content/getting-started-jupyter-notebook-part-2)/[中文版](http://codingpy.com/article/getting-started-with-jupyter-notebook-part-2/)]
+
+
+#### Matplotlib
+- [x] [An Introduction to Scientific Python – Matplotlib](http://www.datadependence.com/2016/04/scientific-python-matplotlib/), [[中文版](http://codingpy.com/article/a-quick-intro-to-matplotlib/)]
+
+#### Numpy
+- [x] [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+- [x] [An Introduction to Scientific Python – NumPy](http://www.datadependence.com/2016/05/scientific-python-numpy/), [[中文版](http://codingpy.com/article/an-introduction-to-numpy/)]
 
 ### MATLAB
 - [ ] [MATLAB SKY](http://www.kui4.com/freev.html), (Easy for Beginners) 
@@ -101,6 +126,7 @@
 ### Competitions & Datasets
 - [ ] [ImageNet](http://image-net.org)
 - [ ] [Kaggle](https://www.kaggle.com)
+- [ ] [DataCastle](http://www.pkbigdata.com)
 
 
 ### Tutorial Sites
@@ -121,4 +147,6 @@
 ----
 
 > Author: [@YoujieXia](http://youjiexia.github.io/) More Articles：[PersonalSite/个人网站](http://youjiexia.github.io/) `|` [CSDN](http://blog.csdn.net/cxsydjn) `|` [简书](http://www.jianshu.com/users/c357c55f62dc/timeline)   
+
+
 
