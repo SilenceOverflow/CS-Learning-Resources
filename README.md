@@ -4,7 +4,7 @@
 
 
 
-> Here is a resources summary for learning **computer science**. All the materials are divided into three categories and arranged in alphabetical order. 
+> Here is a resource summary for learning **computer science**. All the materials are divided into three categories and arranged in alphabetical order. 
 >
 > Also, this is a **To-Do** list for me. I hope this could be a beginner's guide to some specific fields in or related to  computer science, such as **machine learning**, **computer vision**, and **SLAM**, etc.
 > 
@@ -12,7 +12,7 @@
 > 
 > **Updating**!
 > 
-> Last Update: Dec. 16, 2017.
+> Last Update: Mar. 10, 2018.
 
 
 * content
@@ -69,6 +69,8 @@
 
 
 ### PyTorch
+- [PyTorch Tutorials](https://github.com/chenyuntc/pytorch-book)
+- [PyTorch Guide - 知乎](https://zhuanlan.zhihu.com/p/26670032)
 - [PyTorch中文文档](http://pytorch-cn.readthedocs.io/zh/latest/)
 - [PyTorch入门教程](https://morvanzhou.github.io/tutorials/machine-learning/torch/)
 
@@ -81,6 +83,8 @@
 
 
 ## Programming Languages
+### General Guide
+- [Beginner’s Resources to Learn Programming Languages](https://www.vodien.com/blog/education/beginners-resources-to-learn-programming-languages.php), (Recommended by Adam)
 
 ### Java
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/), (IDE @JetBrains)
